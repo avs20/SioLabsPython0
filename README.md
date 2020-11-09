@@ -7,5 +7,6 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 1a : A brief history | History of computers and programming |https://youtu.be/fj2-Fl6obXM | N /A |
 |Chapter 1b : Why Python | Python for ML and Installation | https://youtu.be/MywD8lZXPnM | N /A |
 |Chapter 2 Python Basics | Intro to python, data types, variables | https://youtu.be/4g9zacPYpeA | https://github.com/avs20/SioLabsPython0/blob/main/2_PythonBasics.ipynb |
+|Chapter 3 Python Basic | Booleans and if-elif-else blocks | uploading | https://github.com/avs20/SioLabsPython0/blob/main/3_Booleans_if_else_and_loops.ipynb|
 
 It will be updated daily
