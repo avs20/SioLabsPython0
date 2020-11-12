@@ -11,8 +11,7 @@ Here you will get hte links to video / notebook and breif description
 |Assignment 1 | Topics above | N / A | https://github.com/avs20/SioLabsPython0/blob/main/Assignment_1_Python_Basic_Questions.ipynb |
 |Chapter 4a Python Basic | While Loops | https://youtu.be/DU5D8tGbisk | https://github.com/avs20/SioLabsPython0/blob/main/4_Loops_(While_loop).ipynb | 
 |Chapter 4b Python Basic | String functions | https://youtu.be/uQx4SSa5tUs | Same as 4a above |
-|Chapter 5a Python Basic | Sequences  and String | uploading | https://github.com/avs20/SioLabsPython0/blob/main/5_Sequences_Strings_and_Lists.ipynb | 
-|Chapter 5b Python Basic | For loops in python | uploading | same as 5a | 
+|Chapter 5a Python Basic | Sequences  and String  & For loops in python| https://youtu.be/T1_blsy87G4 | https://github.com/avs20/SioLabsPython0/blob/main/5_Sequences_Strings_and_Lists.ipynb | 
 
 
 It will be updated daily
