@@ -14,7 +14,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 5a Python Basic | Sequences  and String  & For loops in python| https://youtu.be/T1_blsy87G4 | https://github.com/avs20/SioLabsPython0/blob/main/5_Sequences_Strings_and_Lists.ipynb | 
 |Chapter 5b Python Basic | Sequences : Lists in Python | https://youtu.be/-24au1wYI7Q, https://youtu.be/IOlnxhS7Pbc | Same as above |
 |Chapter 6 Python Basic | Functions in Python | https://youtu.be/VelIFxtkdpI | https://github.com/avs20/SioLabsPython0/blob/main/7_Functions_in_python.ipynb |
-|Chapter 7 Python Basic | Dictionaries in Python | uploading | https://github.com/avs20/SioLabsPython0/blob/main/8_Dictionaries_in_python.ipynb|
+|Chapter 7 Python Basic | Dictionaries in Python | https://youtu.be/DESnDCV5LDs | https://github.com/avs20/SioLabsPython0/blob/main/8_Dictionaries_in_python.ipynb|
 
 
 It will be updated daily
