@@ -17,6 +17,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 7 Python Basic | Dictionaries in Python | https://youtu.be/DESnDCV5LDs | https://github.com/avs20/SioLabsPython0/blob/main/8_Dictionaries_in_python.ipynb|
 |Chapter 8 Python Basic | Tuples, whitespace and scopes| https://youtu.be/co9Qgt_panA | https://github.com/avs20/SioLabsPython0/blob/main/9_Tuples_and_other_python_stuff.ipynb |
 |Chapter 9 Python Basic : OOP | Classes, objects, methods, functions, constructor | https://youtu.be/Lo2HBkspBNA | https://github.com/avs20/SioLabsPython0/blob/main/10_OOPS_Classes_modules_in_Python.ipynb|
+|Chapter 10 Python Basic : Inheritance | Class Attributes and Inheritance | https://youtu.be/t1Ovs_H168I | https://github.com/avs20/SioLabsPython0/blob/main/10_Class_Attributes_Methods_Inheritance_and_Polymorphism.ipynb |
 
 
 It will be updated daily
