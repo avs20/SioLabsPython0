@@ -1,6 +1,11 @@
+Last updated on : 24 Nov 2020
+
 Code repository for notebooks of Siolabs Python #0 Batch. 
 
 Here you will get hte links to video / notebook and breif description
+
+##### Note: These notebook are not self explanatory but need to be viewed along with video for full learning
+
 
 |Title | Description | Youtube Video Link | Notebook link |
 |------------|-----------|----------------|----------------|
@@ -18,6 +23,8 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 8 Python Basic | Tuples, whitespace and scopes| https://youtu.be/co9Qgt_panA | https://github.com/avs20/SioLabsPython0/blob/main/9_Tuples_and_other_python_stuff.ipynb |
 |Chapter 9 Python Basic : OOP | Classes, objects, methods, functions, constructor | https://youtu.be/Lo2HBkspBNA | https://github.com/avs20/SioLabsPython0/blob/main/10_OOPS_Classes_modules_in_Python.ipynb|
 |Chapter 10 Python Basic : Inheritance | Class Attributes and Inheritance | https://youtu.be/t1Ovs_H168I | https://github.com/avs20/SioLabsPython0/blob/main/10_Class_Attributes_Methods_Inheritance_and_Polymorphism.ipynb |
+|Chapter 11a OOPS in Python | Why is there so less discussion of OOP in python | uploading | n/a|
+|Chapter 11b Modules | Python Modules and how to use them | uploading| https://github.com/avs20/SioLabsPython0/blob/main/11_Modules_in_Pythondemo.ipynb |
 
 
 It will be updated daily
