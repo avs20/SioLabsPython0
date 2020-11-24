@@ -24,7 +24,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 9 Python Basic : OOP | Classes, objects, methods, functions, constructor | https://youtu.be/Lo2HBkspBNA | https://github.com/avs20/SioLabsPython0/blob/main/10_OOPS_Classes_modules_in_Python.ipynb|
 |Chapter 10 Python Basic : Inheritance | Class Attributes and Inheritance | https://youtu.be/t1Ovs_H168I | https://github.com/avs20/SioLabsPython0/blob/main/10_Class_Attributes_Methods_Inheritance_and_Polymorphism.ipynb |
 |Chapter 11a OOPS in Python | Why is there so less discussion of OOP in python | uploading | n/a|
-|Chapter 11b Modules | Python Modules and how to use them | uploading| https://github.com/avs20/SioLabsPython0/blob/main/11_Modules_in_Pythondemo.ipynb |
+|Chapter 11b Modules | Python Modules and how to use them | https://youtu.be/TAQg3PE4Vs4| https://github.com/avs20/SioLabsPython0/blob/main/11_Modules_in_Pythondemo.ipynb |
 
 
 It will be updated daily
