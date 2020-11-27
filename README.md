@@ -28,7 +28,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 13 Numpy -1 | Intro to numpy arrays | https://youtu.be/tfryN8Ma8LE | https://github.com/avs20/SioLabsPython0/blob/main/13_Numpy.ipynb |
 |Chapter 14 Numpy -2 | Boolean indexing  | https://youtu.be/sI3RAWbxAYo | same as above|
 |Chapter 15 Numpy -3 | Broadcasting & Assignment | https://youtu.be/NmaafLseraA | same as above |
-|Chapter 15 Pandas   | Intro to pandas, Series, Dataframe | uploading | https://github.com/avs20/SioLabsPython0/blob/main/14_Pandas.ipynb |
+|Chapter 16 Pandas   | Intro to pandas, Series, Dataframe | uploading | https://github.com/avs20/SioLabsPython0/blob/main/14_Pandas.ipynb |
 
 
 It will be updated daily
