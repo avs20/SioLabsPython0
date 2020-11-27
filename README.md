@@ -26,7 +26,9 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 11a OOPS in Python | Why is there so less discussion of OOP in python | https://youtu.be/RrQuuK4cF98 | n/a|
 |Chapter 11b Modules | Python Modules and how to use them | https://youtu.be/TAQg3PE4Vs4| https://github.com/avs20/SioLabsPython0/blob/main/11_Modules_in_Pythondemo.ipynb |Chapter 12 File I/o | File IO, context manager, magic commands | https://youtu.be/OiMXAGajYAA | https://github.com/avs20/SioLabsPython0/blob/main/12a_File_IO.ipynb |
 |Chapter 13 Numpy -1 | Intro to numpy arrays | https://youtu.be/tfryN8Ma8LE | https://github.com/avs20/SioLabsPython0/blob/main/13_Numpy.ipynb |
-|Chapter 14 Numpy -2 | Boolean indexing and broadcasting | uploading | same as above|
+|Chapter 14 Numpy -2 | Boolean indexing  | https://youtu.be/sI3RAWbxAYo | same as above|
+|Chapter 15 Numpy -3 | Broadcasting & Assignment | https://youtu.be/NmaafLseraA | same as above |
+|Chapter 15 Pandas   | Intro to pandas, Series, Dataframe | uploading | https://github.com/avs20/SioLabsPython0/blob/main/14_Pandas.ipynb |
 
 
 It will be updated daily
