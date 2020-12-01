@@ -1,4 +1,4 @@
-Last updated on : 25 Nov 2020
+Last updated on : 1 Dec 2020
 
 Code repository for notebooks of Siolabs Python #0 Batch. 
 
@@ -29,7 +29,8 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 14 Numpy -2 | Boolean indexing  | https://youtu.be/sI3RAWbxAYo | same as above|
 |Chapter 15 Numpy -3 | Broadcasting & Assignment | https://youtu.be/NmaafLseraA | same as above |
 |Chapter 16 Pandas   | Intro to pandas, Series, Dataframe | uploading | https://github.com/avs20/SioLabsPython0/blob/main/14_Pandas.ipynb |
-|Chapter 17 Pandas 2 | Working with CSV files, EDA 1 | https://youtu.be/N_dgtIiGTAE | https://github.com/avs20/SioLabsPython0/blob/main/15_Pandas_2.ipynb |
+|Chapter 17 Pandas 2   | Dataframes and selecting data in pandas | https://youtu.be/meq2cM_MOuk | same as above |
+|Chapter 18 Pandas 3 | Working with CSV files, EDA 1 | https://youtu.be/N_dgtIiGTAE | https://github.com/avs20/SioLabsPython0/blob/main/15_Pandas_2.ipynb |
 
 
 It will be updated daily
