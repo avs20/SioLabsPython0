@@ -1,4 +1,4 @@
-Last updated on : 1 Dec 2020
+Last updated on : 2 Dec 2020
 
 Code repository for notebooks of Siolabs Python #0 Batch. 
 
@@ -31,6 +31,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 16 Pandas   | Intro to pandas, Series, Dataframe | uploading | https://github.com/avs20/SioLabsPython0/blob/main/14_Pandas.ipynb |
 |Chapter 17 Pandas 2   | Dataframes and selecting data in pandas | https://youtu.be/meq2cM_MOuk | same as above |
 |Chapter 18 Pandas 3 | Working with CSV files, EDA 1 | https://youtu.be/N_dgtIiGTAE | https://github.com/avs20/SioLabsPython0/blob/main/15_Pandas_2.ipynb |
+|Chapter 19 Pandas 4 | EDA with Pandas, group by and merging | https://youtu.be/GDkNMIL03Ww | https://github.com/avs20/SioLabsPython0/blob/main/18_Pandas_4.ipynb |
 
 
 It will be updated daily
