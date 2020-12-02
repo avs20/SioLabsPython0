@@ -32,6 +32,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 17 Pandas 2   | Dataframes and selecting data in pandas | https://youtu.be/meq2cM_MOuk | same as above |
 |Chapter 18 Pandas 3 | Working with CSV files, EDA 1 | https://youtu.be/N_dgtIiGTAE | https://github.com/avs20/SioLabsPython0/blob/main/15_Pandas_2.ipynb |
 |Chapter 19 Pandas 4 | EDA with Pandas, group by and merging | https://youtu.be/GDkNMIL03Ww | https://github.com/avs20/SioLabsPython0/blob/main/18_Pandas_4.ipynb |
+|Chapter 20 Pandas 5 | EDA With Pandas, missing values, renaming columns, NaN Values, | uploading | https://github.com/avs20/SioLabsPython0/blob/main/19_Pandas_To_the_End.ipynb |
 
 
 It will be updated daily
