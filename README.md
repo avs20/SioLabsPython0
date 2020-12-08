@@ -35,7 +35,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 20 Pandas 5 | EDA With Pandas, missing values, renaming columns, NaN Values, | uploading | https://github.com/avs20/SioLabsPython0/blob/main/19_Pandas_To_the_End.ipynb |
 |Chapter 21 Pandas 6 | apply() Creating new columns from exisiting columns | https://youtu.be/xAVyjXUs6F8 | https://github.com/avs20/SioLabsPython0/blob/main/21_Matplotlib_Visualization.ipynb |
 |Chapter 22 Vizualization 1 | Intro to Matplotlib , creating line plots|https://youtu.be/WoK7-vV0Fbg | https://github.com/avs20/SioLabsPython0/blob/main/21_Matplotlib_Visualization.ipynb |
-|Chapter 23 Vizualization 2 | Bar plots, stacked bar plots, legend | uploading | https://github.com/avs20/SioLabsPython0/blob/main/22_Matplotlib_Visualization.ipynb |
+|Chapter 23 Vizualization 2 | Bar plots, stacked bar plots, legend | https://youtu.be/BRUOAMnrzaQ | https://github.com/avs20/SioLabsPython0/blob/main/22_Matplotlib_Visualization.ipynb |
 |Chapter 24 Vizualization 3 | Matplotlib vs Pandas vs Seaborn  | uploading | https://github.com/avs20/SioLabsPython0/blob/main/24_Matplotlib_vs_Pandas_vs_Seaborn.ipynb |
 
 
