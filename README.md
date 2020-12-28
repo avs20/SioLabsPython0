@@ -2,7 +2,7 @@ Last updated on : 10 Dec 2020
 
 Code repository for notebooks of Siolabs Python #0 Batch. 
 
-Here you will get hte links to video / notebook and breif description
+Here you will get the links to video / notebook and breif description
 
 ##### Note: These notebook are not self explanatory but need to be viewed along with video for full learning
 
