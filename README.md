@@ -38,6 +38,7 @@ Here you will get hte links to video / notebook and breif description
 |Chapter 23 Vizualization 2 | Bar plots, stacked bar plots, legend | https://youtu.be/BRUOAMnrzaQ | https://github.com/avs20/SioLabsPython0/blob/main/22_Matplotlib_Visualization.ipynb |
 |Chapter 24 Vizualization 3 | Matplotlib vs Pandas vs Seaborn  | https://youtu.be/8HY5UWowCTY | https://github.com/avs20/SioLabsPython0/blob/main/24_Matplotlib_vs_Pandas_vs_Seaborn.ipynb |
 |Chapter 25 Vizualization 4 | Seaborn = Scatter Plots | https://youtu.be/V9Qq-PH2AS8 | https://github.com/avs20/SioLabsPython0/blob/main/25_Vizualization_Using_Seaborn_1.ipynb | 
+|Chapter 32 Sklearn | How sklearn works | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/Sklearn.ipynb |
 
 
 It will be updated daily
