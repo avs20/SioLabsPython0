@@ -39,6 +39,7 @@ Here you will get the links to video / notebook and breif description
 |Chapter 24 Vizualization 3 | Matplotlib vs Pandas vs Seaborn  | https://youtu.be/8HY5UWowCTY | https://github.com/avs20/SioLabsPython0/blob/main/24_Matplotlib_vs_Pandas_vs_Seaborn.ipynb |
 |Chapter 25 Vizualization 4 | Seaborn = Scatter Plots | https://youtu.be/V9Qq-PH2AS8 | https://github.com/avs20/SioLabsPython0/blob/main/25_Vizualization_Using_Seaborn_1.ipynb | 
 |Chapter 32 Sklearn | How sklearn works | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/Sklearn.ipynb |
+|Chapter 33 Linear Regression | Goodness of fit RMSE and Rsquared | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/Linear_Regression_Again.ipynb|
 
 
 It will be updated daily
