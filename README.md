@@ -1,4 +1,4 @@
-Last updated on : 10 Dec 2020
+Last updated on : 31 Dec 2020
 
 Code repository for notebooks of Siolabs Python #0 Batch. 
 
@@ -40,6 +40,7 @@ Here you will get the links to video / notebook and breif description
 |Chapter 25 Vizualization 4 | Seaborn = Scatter Plots | https://youtu.be/V9Qq-PH2AS8 | https://github.com/avs20/SioLabsPython0/blob/main/25_Vizualization_Using_Seaborn_1.ipynb | 
 |Chapter 32 Sklearn | How sklearn works | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/Sklearn.ipynb |
 |Chapter 33 Linear Regression | Goodness of fit RMSE and Rsquared | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/Linear_Regression_Again.ipynb|
+|Chapter 34 Linear Regression | Explainability of model | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/34%20:%20Yet_Again_Linear_Regression.ipynb |
 
 
 It will be updated daily
