@@ -42,7 +42,7 @@ Here you will get the links to video / notebook and breif description
 |Chapter 33 Linear Regression | Goodness of fit RMSE and Rsquared | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/Linear_Regression_Again.ipynb|
 |Chapter 34 Linear Regression | Explainability of model | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/34%20:%20Yet_Again_Linear_Regression.ipynb |
 |Chapter 35 Linear Regression with SKLearn | Multiple Linear Regression and using sklearn | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/35%20%3A%20Sklearn_and_Linear_Regression.ipynb|
-|Chapter 36 Linear Regression different Models and Ethics |Testing different models and ML Ethics|Uploading| https://github.com/avs20/SioLabsPython0/blob/main/36%20%3A%20Sklearn_and_Linear_Regression%20-3.ipynb|
+|Chapter 36 Linear Regression different Models and Ethics |Testing different models and ML Ethics|Uploading| https://github.com/avs20/SioLabsPython0/blob/main/36%20%3A%20Sklearn_and_Linear_Regression%20-3.ipynb |
 
 
 It will be updated daily
