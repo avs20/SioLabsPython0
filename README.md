@@ -1,4 +1,4 @@
-Last updated on : 6 Jan 2021
+Last updated on : 8 Jan 2021
 
 Code repository for notebooks of Siolabs Python #0 Batch. 
 
@@ -43,6 +43,7 @@ Here you will get the links to video / notebook and breif description
 |Chapter 34 Linear Regression | Explainability of model | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/34%20:%20Yet_Again_Linear_Regression.ipynb |
 |Chapter 35 Linear Regression with SKLearn | Multiple Linear Regression and using sklearn | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/35%20%3A%20Sklearn_and_Linear_Regression.ipynb|
 |Chapter 36 Linear Regression different Models and Ethics |Testing different models and ML Ethics|Uploading| https://github.com/avs20/SioLabsPython0/blob/main/36%20%3A%20Sklearn_and_Linear_Regression%20-3.ipynb |
+|Chapter 38 : Classification | CLassification | Uploading | https://github.com/avs20/SioLabsPython0/blob/main/38%20%3A%20Classification_and_kNN.ipynb |
 
 
 It will be updated daily
